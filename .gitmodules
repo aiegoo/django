@@ -1,0 +1,9 @@
+[submodule "Guides"]
+	path = Guides
+	url = https://github.com/codingforentrepreneurs/Guides.git
+[submodule "Try-Django-2.2"]
+	path = Try-Django-2.2
+	url = https://github.com/codingforentrepreneurs/Try-Django-2.2.git
+[submodule "Try-Django-1.8"]
+	path = Try-Django-1.8
+	url = https://github.com/codingforentrepreneurs/Try-Django-1.8.git
