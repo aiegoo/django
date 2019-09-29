@@ -16,6 +16,10 @@ Team CFE
 ## Lecture Code
 The tutorial code below is the final code from the end of each tutorial video. Each link below is tied directly to the tutorial's title. Please note that some videos will not have code reference code.
 
+[1 - python pip install](https://www.codingforentrepreneurs.com/projects/setup-windows/install-python-pip-virtualenv-and-django-windows-1)
+
+[2 - virtualenv install](https://docs.djangoproject.com/en/2.2/howto/windows/)
+
 [4 - Versions & Install](../../tree/31fdd791b674e329369de3557432805d8d14d4b9)
 
 [5 - Superuser & Admin](../../tree/2424c5b052a7adb4f9400d283c9ead1414b6449e)
