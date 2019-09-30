@@ -88,4 +88,37 @@ The tutorial code below is the final code from the end of each tutorial video. E
 
 [Final Try Django 1.8 Code](../../tree/2e140665355611a54725eb9804655de6ae6276e7)
 
+## python commands
 
+    |    |    |
+|:---|:--:|
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+| createsuperuser   |    |
+| changepassword   |    |
+|  testserver  |    |
+| test   |    |
+| startproject   |    |
+| startapp   |    |
+|squashmigrations   |    |
+|  sqlsequencereset  |    |
+| sqlmigrate   |    |
+| sqlflush   |    |
+| showmigrations   |    |
+| shell   |    |
+| sendtestemail   |    |
+| runserver   |    |
+| migrate   |    |
+| makemigrations   |    |
+| makemessages   |    |
+| loaddata   |    |
+| inspectdb   |    |
+| flush   |    |
+|dumpdata   |    |
+| diffsettings   |    |
+| dbshell   |    |
+| createcachetable   |    |
+|compilemessages    |    |
+|check    |    |
