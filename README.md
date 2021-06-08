@@ -1,3 +1,10 @@
+### local repo: root@159.68.3.38:~/django/django-git
+
+### source Script/activate && python manage.py runsever 0:10044 (temporary)
+### ip:10044/admin or /posts
+
+no tmux is set for this site
+
 ![Try Django 1.9 Logo](https://cfe-static.s3.amazonaws.com/media/try-django-19/images/try_django_19.png)
 
 # Try Django 1.9
